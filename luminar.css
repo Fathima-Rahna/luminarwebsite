@@ -92,10 +92,13 @@
     width: 520px;
     height: 100px;
     text-align: justify;
+    
+    
     margin-bottom: 200px;
   }
 
   .heading {
+    
     font-size: 20px;
     text-align: left;
     margin-right: 270px;
@@ -242,6 +245,8 @@
 }
 .b2{
   font-size: 20px;
+}.btn1{
+width:130px;
 }
 
 }
@@ -261,8 +266,8 @@
   transition: 0.5s;
   box-shadow: 0 0 20px 0px ;}
 
+/*
 
-/*.card {
   height: 100%;
   width: 100%;
   display: flex;
